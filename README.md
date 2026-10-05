@@ -29,6 +29,7 @@ I am a computer science student and hands-on builder from Dehradun, India. I enj
 | [C-Programs](https://github.com/garvpahwa007/C-Programs) | C practice projects, including an animated terminal Snake game |
 | [AutoCAD](https://github.com/garvpahwa007/AutoCAD) | Mechanical design and engineering work |
 | [Progress-Meter](https://github.com/Ranjit-Dit/Progress-Meter) | A collaborative project for tracking progress |
+| [Selected-programs](https://github.com/garvpahwa007/Selected-programs) | A work-in-progress collection of selected programming exercises and solutions | 
 
 ## Tech I use
 
