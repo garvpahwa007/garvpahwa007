@@ -1,49 +1,39 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&pause=1000&color=22C55E&center=true&vCenter=true&width=760&lines=Hi%2C+I%27m+Garv+Pahwa+%F0%9F%91%8B;Computer+Science+Student+%7C+Builder;Robotics%2C+Drones+%26+Autonomous+Systems;Turning+ideas+into+working+projects." alt="Animated introduction" />
-</div>
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Garv Pahwa — Code. Build. Take flight. Computer science student exploring robotics, drones, and autonomous systems." />
+</p>
 
 <p align="center">
-  <a href="https://github.com/garvpahwa007"><img src="https://img.shields.io/badge/GitHub-garvpahwa007-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="mailto:garv.pahwa007@gmail.com"><img src="https://img.shields.io/badge/Email-Connect-22C55E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:garv.pahwa007@gmail.com">Let's connect ↗</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/garvpahwa007?tab=repositories">Explore my repositories</a>
+  &nbsp; · &nbsp;
+  Dehradun, India
 </p>
 
-## About me
+I'm **Garv**, a computer science student at **DIT University** and a hands-on builder. I enjoy connecting software with the physical world: learning how robots move, how drones fly, and how an idea becomes a working prototype.
 
-I am a computer science student and hands-on builder from Dehradun, India. I enjoy creating practical software and exploring the systems behind robotics, drones, and automation.
-
-- 🔭 Building projects that blend code, control, and real-world problem solving
-- 🧠 Exploring robotics, autonomous systems, and intelligent machines
-- ⚙️ Growing through C programming, experiments, and engineering projects
-- 🎯 Goal: turn curiosity into useful prototypes
-
-## Current focus
-
-- Robotics and automation — learning and building
-- Drone technology — exploring
-- C programming — practicing through projects
-
-## Featured work
-
-| Project | What it is |
-| --- | --- |
-| [C-Programs](https://github.com/garvpahwa007/C-Programs) | C practice projects, including an animated terminal Snake game |
-| [AutoCAD](https://github.com/garvpahwa007/AutoCAD) | Mechanical design and engineering work |
-| [Progress-Meter](https://github.com/Ranjit-Dit/Progress-Meter) | A collaborative project for tracking progress |
-| [Selected-programs](https://github.com/garvpahwa007/Selected-programs) | A work-in-progress collection of selected programming exercises and solutions | 
-
-## Tech I use
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,autocad" alt="C, C++, Python, Git, GitHub, VS Code and AutoCAD" />
-</p>
-
-## GitHub activity
+Currently sharpening my **C programming**, experimenting with **robotics and automation**, and exploring **drone technology and mechanical design**.
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=garvpahwa007&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=garvpahwa007&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+  <img src="./assets/contribution-city.svg" width="100%" alt="A 3D city built from my real GitHub contributions over the last 26 weeks. Each building represents one day's activity." />
 </p>
 
-<div align="center">
-  <i>Building, learning, and shipping one project at a time.</i>
-</div>
+<p align="center">
+  <img src="./assets/languages.svg" width="100%" alt="My public repository language breakdown, excluding this profile repository." />
+</p>
+
+### Selected work
+
+<p align="center">
+  <a href="https://github.com/garvpahwa007/C-Programs"><img src="./assets/project-c-programs.svg" width="49%" alt="C-Programs — terminal games, calculators, and C fundamentals. Open repository." /></a>
+  <a href="https://github.com/garvpahwa007/Selected-programs"><img src="./assets/project-selected-programs.svg" width="49%" alt="Selected-programs — curated C programs, games, and a banking simulation. Open repository." /></a>
+  <br />
+  <a href="https://github.com/garvpahwa007/AutoCAD"><img src="./assets/project-autocad.svg" width="49%" alt="AutoCAD — a mecanum wheel model and engineering references. Open repository." /></a>
+  <a href="https://github.com/Ranjit-Dit/Progress-Meter"><img src="./assets/project-progress-meter.svg" width="49%" alt="Progress-Meter — a collaborative progress-tracking project for SIH 2026. Open repository." /></a>
+</p>
+
+<p align="center"><sub>Building, learning, and shipping one project at a time.</sub></p>
+
+<!-- Artwork is generated from public GitHub data by .github/scripts/generate_profile.py.
+     Stats refresh daily with GitHub Actions. The city shows the last 26 weeks;
+     the header shows GitHub's rolling-year contribution total. -->
