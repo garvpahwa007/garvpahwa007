@@ -179,17 +179,16 @@ def languages(data):
 
 
 PROJECTS = [
-    ('phishguard', 'PhishGuard / acm1', 'Dashboard integration with a Flask phishing', 'detection backend for URLs and email.', 'PYTHON / FLASK', MINT, '01'),
-    ('c-programs', 'C-Programs', 'Terminal games, calculators, and the', 'fundamentals behind working programs.', 'C', CYAN, '02'),
-    ('selected-programs', 'Selected-programs', 'A curated collection of C programs:', 'banking, games, and everyday logic.', 'C / PRACTICE', MINT, '03'),
-    ('autocad', 'AutoCAD', 'A mecanum wheel model and engineering', 'references for things that move.', 'CAD / HARDWARE', PURPLE, '04'),
-    ('progress-meter', 'Progress-Meter', 'A collaborative progress-tracking project', 'built for SIH 2026.', 'COLLABORATION', CYAN, '05'),
+    ('c-programs', 'C-Programs', 'Terminal games, calculators, and the', 'fundamentals behind working programs.', 'C', CYAN, '01'),
+    ('selected-programs', 'Selected-programs', 'A curated collection of C programs:', 'banking, games, and everyday logic.', 'C / PRACTICE', MINT, '02'),
+    ('autocad', 'AutoCAD', 'A mecanum wheel model and engineering', 'references for things that move.', 'CAD / HARDWARE', PURPLE, '03'),
+    ('progress-meter', 'Progress-Meter', 'A collaborative progress-tracking project', 'built for SIH 2026.', 'COLLABORATION', CYAN, '04'),
 ]
 
 
 def project_card(project):
     slug, name, line1, line2, tag, color, number = project
-    width = 960 if slug == 'phishguard' else 470
+    width = 470
     b = text(22, 30, f'PROJECT / {number}', 10, color, 500, True)
     b += text(width-28, 32, '↗', 23, color, 500, extra='text-anchor="end"')
     b += text(22, 64, name, 24, WHITE, 650)
@@ -198,9 +197,6 @@ def project_card(project):
     shape, _ = chip(22, 134, tag, color)
     b += shape
     b += text(width-29, 154, 'VIEW REPOSITORY', 9, MUTED, 400, True, 'text-anchor="end"')
-    if slug == 'phishguard':
-        b += '<g fill="none" stroke="#52f5bf" stroke-width="3" stroke-linejoin="round"><path d="M746 36l43 16v31c0 30-43 47-43 47s-43-17-43-47V52z" fill="#0c2b32"/><path d="M727 80l13 13 26-29"/></g>'
-        b += text(746, 152, 'URL + EMAIL SCANNING', 10, MUTED, 400, True, 'text-anchor="middle"')
     return svg(width, 180, name, b, f'{line1} {line2}')
 
 
