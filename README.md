@@ -12,7 +12,7 @@
 
 I'm **Garv**, a computer science student at **DIT University** and a hands-on builder. I enjoy connecting software with the physical world: learning how robots move, how drones fly, and how an idea becomes a working prototype.
 
-Currently sharpening my **C programming**, experimenting with **robotics and automation**, and exploring **drone technology and mechanical design**.
+Currently sharpening my **C and Python programming**, integrating a **Flask-powered phishing detection dashboard** in [PhishGuard](https://github.com/garvpahwa007/acm1), and exploring **robotics, drone technology, and mechanical design**.
 
 <p align="center">
   <img src="./assets/contribution-city.svg" width="100%" alt="A 3D city built from my real GitHub contributions over the last 26 weeks. Each building represents one day's activity." />
@@ -23,6 +23,10 @@ Currently sharpening my **C programming**, experimenting with **robotics and aut
 </p>
 
 ### Selected work
+
+<p align="center">
+  <a href="https://github.com/garvpahwa007/acm1"><img src="./assets/project-phishguard.svg" width="100%" alt="PhishGuard / acm1 — dashboard integration with a Python and Flask phishing detection backend for URLs and email. Open repository." /></a>
+</p>
 
 <p align="center">
   <a href="https://github.com/garvpahwa007/C-Programs"><img src="./assets/project-c-programs.svg" width="49%" alt="C-Programs — terminal games, calculators, and C fundamentals. Open repository." /></a>
